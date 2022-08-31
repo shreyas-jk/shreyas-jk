@@ -5,10 +5,14 @@ My name is Shreyas Kudav and I code stuff! :)
 You can find me on [LinkedIn](https://www.linkedin.com/in/shreyaskudav/)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Programming_Language-Python-informational?style=flat&logo=python2&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web_Framework-Flask-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Libraries-NumPy_Pandas_ScikitLearn_Matplotlib_Tensorflow-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-jk&theme=dark)
 
