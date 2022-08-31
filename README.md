@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://github.com/shreyas-jk/shreyas-jk/blob/main/wave.gif" width="30px">
 
-My name is Shreyas Kudav and I am Data Science enthusiastic.
+My name is Shreyas Kudav and I code stuff! :)
 You can find me on [LinkedIn](https://www.linkedin.com/in/shreyaskudav/)
 
 ## 🔧 Technologies & Tools
